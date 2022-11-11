@@ -24,7 +24,7 @@ const doc = {
   components: {}, // by default: empty object (OpenAPI 3.x)
 };
 
-const outputFile = "./swagger.json";
+const outputFile = "./swagger/swagger.json";
 const endpointsFiles = ["./index.js"];
 
 /* NOTE: if you use the express Router, you must pass in the 

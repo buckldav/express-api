@@ -8,3 +8,5 @@ node index.js
 # generate swagger.json
 npm run swagger-autogen
 ```
+
+TODO: Put on DETA: https://docs.deta.sh/docs/base/node_tutorial

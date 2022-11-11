@@ -18,7 +18,8 @@
   "paths": {
     "/": {
       "get": {
-        "description": "Hello World route",
+        "summary": "Hello World",
+        "description": "Hello World route.",
         "parameters": [],
         "responses": {
           "200": {
